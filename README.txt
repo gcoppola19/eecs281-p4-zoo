@@ -1,3 +1,13 @@
+This project covered MST algorithms (Prim's and Kruskal's), and 
+working on the TSP problem. We had to implement a fast TSP heuristic as well of our choice, 
+this project utilizes abituary insertion, and finally implementing the most
+optimal solution, using branch and bound under certain time and space conditions
+
+The program read in a file of coordinates for different animal cages and with certain 
+constraints the zoo had to figure out the best way to get every animal water
+
+full project spec: https://eecs281staff.github.io/p4-zoo/
+
 We've included the test from the project specification,
 spec-test.txt, along without output for all three modes.
 
